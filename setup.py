@@ -9,6 +9,8 @@ setup(
     author='Mark Paschal',
     author_email='markpasc@markpasc.org',
     url='https://github.com/markpasc/pywhich',
+    maintainer='Tom Wright',
+    maintainer_email='tat.wright@googlemail.com',
     classifiers=[
         'Environment :: Console',
         'License :: OSI Approved :: MIT License',
