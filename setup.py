@@ -2,7 +2,7 @@ from distutils.core import setup
 
 setup(
     name='pywhich',
-    version='1.1',
+    version='1.1.1',
     description='Find where python modules are installed.',
     long_description='''\
 Thanks to Mark Paschal for taking my 10 line script and adding various useful flags, and dealing with some edge cases.
