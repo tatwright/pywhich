@@ -4,6 +4,7 @@ setup(
     name='pywhich',
     version='1.1',
     description='Find where Python modules are installed in the current Python',
+    long_description='Code is maintained at: https://github.com/tatwright/pywhich',
     py_modules=['pywhich'],
     scripts=['bin/pywhich'],
     author='Mark Paschal',
